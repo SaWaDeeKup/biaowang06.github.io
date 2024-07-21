@@ -12,7 +12,7 @@ title                    : "Biao Wang"
 title_separator          : "-"
 name                     : &name "Biao Wang (Bradley)"
 description              : &description "12"
-url                      : https://sawadeekup.github.io/biaowang06.github.io/ # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sawadeekup.github.io/biaowang06.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
 
