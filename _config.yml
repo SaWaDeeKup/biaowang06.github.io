@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Biao Wang (Bradley)"
 description              : &description "123"
 url                      : https://sawadeekup.github.io/biaowang06.github.io/ # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Biao Wang (Bradley)"
-  pronouns         : "he/him/his"  
+  pronouns         : "he / him / his"  
   bio              : "A Master of Science student at the University of Connecticut. Possess R, SAS, JMP, SQL, Python, Microsoft Office, Chinese, and English. Keen to pursue a career as an Associate Data Analyst."
   location         : "Stamford, CT"
-  employer         : "University of Connecticut (UCONN)"
+  employer         : "University of Connecticut"
   uri              : "www.linkedin.com/in/biaowang760"
   email            : "biaowang760@gmail.com" 
 
@@ -55,9 +55,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  Instagram        : "@nosta1gia_78"
+  Instagram        : @nosta1gia_78
   lastfm           : # Username
-  linkedin         : "Biao Wang"
+  linkedin         : www.linkedin.com/in/biaowang760
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
