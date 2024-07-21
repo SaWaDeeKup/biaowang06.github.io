@@ -12,22 +12,22 @@ title                    : "Biao Wang"
 title_separator          : "-"
 name                     : &name "Biao Wang (Bradley)"
 description              : &description "123"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sawadeekup.github.io/biaowang06.github.io/ # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : # "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Biao Wang (Bradley)"
-  pronouns         : "He / him / his"  
-  bio              : "A Master of Science student at the University of Connecticut. Possess R, SAS, JMP, SQL, Python, Microsoft Office, Chinese, and English. Keen to pursue a career as an Associate Business Analyst."
+  pronouns         : "he/him/his"  
+  bio              : "A Master of Science student at the University of Connecticut. Possess R, SAS, JMP, SQL, Python, Microsoft Office, Chinese, and English. Keen to pursue a career as an Associate Data Analyst."
   location         : "Stamford, CT"
-  employer         : "University of Connecticut (Uconn)"
-  uri              : # URL
+  employer         : "University of Connecticut (UCONN)"
+  uri              : "www.linkedin.com/in/biaowang760"
   email            : "biaowang760@gmail.com" 
 
   # Academic websites
