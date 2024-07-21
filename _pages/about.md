@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Biao Wang, also known as Bradley, a passionate and dedicated Master of Science student at the University of Connecticut (UConn), specializing in Business Analytics and Project Management (MSBAPM). My journey in this field has equipped me with a robust skill set in R, SAS, JMP, SQL, Python, and Microsoft Office, alongside fluency in both Chinese and English.
+Hello! I’m Biao Wang, also known as Bradley, a passionate and dedicated Master of Science student at the University of Connecticut (UConn), specializing in Business Analytics and Project Management (MSBAPM). My journey in this field has equipped me with a robust skill set in R, SAS, JMP, SQL, Python, and Microsoft Office, alongside fluency in both Chinese and English. 
 
 Currently based in Stamford, CT, I am keen on pursuing a career as an Associate Data Analyst. My academic journey and professional aspirations are driven by a strong foundation in data analysis, statistical modeling, and project management. I thrive on solving complex problems and leveraging data-driven insights to drive strategic business decisions.
 
