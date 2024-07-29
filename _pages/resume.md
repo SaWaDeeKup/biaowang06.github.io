@@ -13,10 +13,10 @@ redirect_from:
 
 Education
 ======
-*** University of Connecticut  **                                                    2023 – May 2025 (Expected)
+*  University of Connecticut                                                      2023 – May 2025 (Expected)
 * M.S. in Business Analytics and Project Management             
   * Current GPA: 3.8/4.0
-***  The State University of New York at Albany **                                                  2018 – 2022
+*  The State University of New York at Albany                                               2018 – 2022
 *  B.S. in Econometrics and Quantitative Economics                                                
   * GPA: 3.5/4.0
   * Dean’s List 2020-2021
