@@ -5,7 +5,7 @@ permalink: /publication/2022-01-01-russian-ukraine-conflict-oil-price-fluctuatio
 excerpt: 'This study examines how responsive the manufacturing indices of China and the United States are to changes in the price of WTI crude oil over the three months prior to and following the Russian-Ukrainian Conflict.'
 date: 2022-01-01
 venue: 'BCP Business & Management FMEME'
-paperurl: 'http://biaowang06.github.io/files/paper1.pdf'
+paperurl: 'https://sawadeekup.github.io/biaowang06.github.io/files/paper1.pdf'
 citation: 'Wang, B. (2022). &quot;The Russian-Ukraine Conflict, Crude Oil Price Fluctuation, and Dynamic Changes in China’s and American Manufacturing.&quot; <i>BCP Business & Management FMEME</i>. 30.'
 ---
 
