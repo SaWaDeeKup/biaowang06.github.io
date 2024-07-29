@@ -1,13 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "The Russian-Ukraine Conflict, Crude Oil Price Fluctuation, and Dynamic Changes in China’s and American Manufacturing"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+permalink: /publication/2022-01-01-russian-ukraine-conflict-oil-price-fluctuation
+excerpt: 'This study examines how responsive the manufacturing indices of China and the United States are to changes in the price of WTI crude oil over the three months prior to and following the Russian-Ukrainian Conflict.'
+date: 2022-01-01
+venue: 'BCP Business & Management FMEME'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Wang, B. (2022). &quot;The Russian-Ukraine Conflict, Crude Oil Price Fluctuation, and Dynamic Changes in China’s and American Manufacturing.&quot; <i>BCP Business & Management FMEME</i>. 30.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This study examines how responsive the manufacturing indices of China and the United States are to changes in the price of WTI crude oil over the three months prior to and following the Russian-Ukrainian Conflict, paying particular attention to changes in the manufacturing index brought on by volatile oil prices. To assess the static and dynamic effects of changes in crude oil prices on the manufacturing indices in China and the US, this study uses a time series model. The use of a VAR(p) model to clearly correlate WTI crude oil price volatility with the Russian-Ukrainian Conflict is the distinguishing feature. The empirical results demonstrate a strong correlation between the size of China's and the US manufacturing index's oscillations in response to geopolitical shocks. Both countries' manufacturing indices are highly susceptible to changes in WTI crude oil prices.
+
+Keywords: Geopolitical conflict; oil price volatility; manufacturing index; VAR modeling.
